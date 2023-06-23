@@ -1,18 +1,3 @@
-from random import randint
-from aperol import Aperol
-from black_russian import Black_russian
-from chardonnay import Chardonnay
-from cydr import Cydr
-from greyhound import Greyhound
-from lech import Lech
-from merlot import Merlot
-from pinot_noir import Pinot_noir
-from porto import Porto
-from pszeniczne import Pszeniczne
-from sommersby import Sommersby
-from tyskie import Tyskie
-from white_russian import White_russian
-from drinki import Drinks
 from generuj_drinka import GenerujDrinka
 
 #funkcja sprawdzajaca plec
