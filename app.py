@@ -65,7 +65,7 @@ def aperol_kobiety():
 
 def aperol_kobiety2():
     if plec() == "K":
-        print("Witaj w naszej apce z alkoholem, zapraszamy na darmowy Aperol.")
+        print("Witaj w naszej apce z alkoholem - zapraszamy na darmowy Aperol, ale w Twoim wieku nie przesadzaj ze spozyciem")
     else:
         print("Witaj w naszej apce z alkoholem, zapraszamy do zakupów")
         print("Uważaj w Twoim wieku nie przasadzaj ze spożyciem")
