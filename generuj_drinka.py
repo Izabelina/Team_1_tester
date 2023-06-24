@@ -72,4 +72,4 @@ class GenerujDrinka:
 
     def wypisz_drinki(self, lista_drinkow, ilosc):
         for drinki in lista_drinkow:
-            print(f"{drinki.get_nazwa()}, z listy napoi: {drinki.get_grupa()}, w cenie: {drinki.get_cena()} PLN")
+            print(f"{drinki.get_nazwa()}, z listy napoi: {drinki.get_grupa()}, w cenie: {drinki.get_cena()}")
